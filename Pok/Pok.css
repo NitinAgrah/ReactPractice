@@ -1,0 +1,27 @@
+/* pok.css */
+
+/* Style for the input field */
+.pokemon-input {
+  margin-bottom: 10px;
+}
+
+/* Style for the fetch button */
+.fetch-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style for the paragraphs */
+.pokemon-info {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+/* Style for error message */
+.error-message {
+  color: red;
+  font-size: 16px;
+}

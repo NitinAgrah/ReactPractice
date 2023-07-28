@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Container style */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation style */
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.navbar li {
+  padding: 10px 20px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Page title style */
+.page-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Page content style */
+.page-content {
+  line-height: 1.6;
+}
+
+/* Footer style */
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #777;
+}
